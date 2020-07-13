@@ -1,1 +1,2 @@
 # sql-challenge
+This is a good way to break in the sql skills and fully explore how to create the diagrams, create the tables and work the joins to better gather your information. Honestly, this works more easily than most of the other coding because the systems are so simple. Then, once you have brought the code into jupyter or Visual Studio Code, then you can employ other versions of code to really make your data tell the story. 
